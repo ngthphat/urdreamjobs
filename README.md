@@ -26,6 +26,3 @@ You can scan the company's logo or entrance building to find available jobs.
 If there is any avaiable job, you can share this to your friends by sending an email or you can add to bookmark list.
 If there is no any avaiable job, you will see a job alert screen.  
 
-## Reference
-Technical support: [TechLooper](http://techlooper.com) and [VietnamWorks](http://www.vietnamworks.com)
-
